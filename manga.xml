@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manga:coleccion 
+    xmlns:manga="https://biblioteca-manga.com/info"
+    xmlns:editorial="https://shonenjump.com/datos">
+
+    <manga:obra id="n01">
+        <manga:titulo>Naruto</manga:titulo>
+        <manga:autor>Masashi Kishimoto</manga:autor>
+        <editorial:lanzamiento>1999</editorial:lanzamiento>
+        <editorial:revista>Weekly Shonen Jump</editorial:revista>
+    </manga:obra>
+
+    <manga:obra id="hxh01">
+        <manga:titulo>Hunter x Hunter</manga:titulo>
+        <manga:autor>Yoshihiro Togashi</manga:autor>
+        <editorial:lanzamiento>1998</editorial:lanzamiento>
+        <editorial:revista>Weekly Shonen Jump</editorial:revista>
+    </manga:obra>
+
+</manga:coleccion>
