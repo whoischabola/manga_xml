@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manga:coleccion 
     xmlns:manga="https://biblioteca-manga.com/info"
-    xmlns:editorial="https://shonenjump.com/datos">
-
+    
     <obra id="n01">
         <titulo>Naruto</titulo>
         <autor>Masashi Kishimoto</autor>
